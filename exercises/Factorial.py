@@ -1,6 +1,4 @@
 # Adina Lew
-import sys
-
 def process_input(input_str):
     try:
         value = int(input_str)
